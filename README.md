@@ -8,9 +8,6 @@
 <!-- Wave GIF -->
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"/>
 
-<br/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=IT+Student+at+PP+Savani+University;Learning+Data+Science+%26+AI;Python+%7C+Power+BI+%7C+SQL;Building+Projects+and+Growing+Daily" />
 
 ## 🧑‍💻 About Me
 
