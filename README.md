@@ -111,21 +111,11 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
+![](https://github-readme-stats.vercel.app/api?username=Devan7705&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff" height="180" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff" height="180" />
+![](https://github-readme-streak-stats.herokuapp.com/?user=Devan7705&theme=tokyonight&hide_border=false)
 
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=ff6b6b&currStreakLabel=00d9ff" />
-
-</div>
-
----
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Devan7705&theme=tokyonight&hide_border=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 
