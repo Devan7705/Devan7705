@@ -23,9 +23,9 @@
 ```python
 class DataScienceAspirant:
     def __init__(self):
-        self.name       = "Your Name"
+        self.name       = "Patel Devan S"
         self.university = "PP Savani University"
-        self.degree     = "B.Tech - Information Technology"
+        self.degree     = "Bachelor of Science in Information Technology"
         self.goal       = "Data Scientist 🎯"
         self.motto      = "Learn → Build → Upload → Repeat 🔁"
 
@@ -164,10 +164,9 @@ me = DataScienceAspirant()
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_INSTAGRAM)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/devan-patel-819729304?utm_source=share_via&utm_content=profile&utm_medium=member_ios))
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Devan7705)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pateldevan73@gmail.com)
 
 </div>
 
