@@ -69,30 +69,29 @@
 
 ---
 
-## 🚀 My Roadmap to Data Science
+ ## 🚀 My Data Science Roadmap
 
-```
-[2024 - Now]  ──►  IT Student @ PP Savani University
-      │
-      ▼
-  Web Basics          ✅ HTML, CSS, JavaScript
-  Core Programming    ✅ Python, SQL
-  Version Control     ✅ Git & GitHub
-      │
-      ▼
-  Currently Here ──►  DSA + Statistics + Power BI
-      │
-      ▼
-  Next Stop     ──►   Machine Learning 🤖
-      │
-      ▼
-  Then          ──►   Deep Learning 🧠
-      │
-      ▼
-  Final Boss    ──►   Generative AI ✨
-      │
-      ▼
-  🎯 DATA SCIENTIST
+```text
+🎓 IT Student @ PP Savani University
+
+┌──────────────────────────────────────┐
+│ ✅ Web Basics       → HTML, CSS, JS │
+│ ✅ Programming      → Python, SQL   │
+│ ✅ Version Control  → Git & GitHub  │
+└──────────────────────────────────────┘
+
+📍 Current Focus
+┣━━ DSA
+┣━━ Statistics
+┗━━ Power BI
+
+🧠 Next Learning Goals
+┣━━ Machine Learning
+┣━━ Deep Learning
+┗━━ Generative AI
+
+🎯 Goal
+Become a Data Scientist
 ```
 
 ---
