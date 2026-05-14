@@ -119,25 +119,14 @@
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
-
-</div>
-
----
+![](https://github-profile-trophy.vercel.app/?username=Devan7705&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 ## 📈 Contribution Graph
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff" />
-
-</div>
-
+[![Devan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Devan7705&theme=tokyo-night)](https://github.com/Devan7705)
 ---
-
 ## 🤝 Connect With Me
+
 
 <div align="center">
 
