@@ -20,29 +20,17 @@
 
 ## 🧑‍💻 About Me
 
-```python
-class DataScienceAspirant:
-    def __init__(self):
-        self.name       = "Patel Devan S"
-        self.university = "PP Savani University"
-        self.degree     = "Bachelor of Science in Information Technology"
-        self.goal       = "Data Scientist 🎯"
-        self.motto      = "Learn → Build → Upload → Repeat 🔁"
+<img align="right" alt="Coding" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-    def current_focus(self):
-        return [
-            "📊 Mastering DSA & Statistics",
-            "📈 Exploring Power BI",
-            "🤖 Diving into ML & Deep Learning",
-            "✨ Chasing the GenAI wave"
-        ]
+- 🎓 **IT Student** at **PP Savani University**
+- 🎯 Aspiring **Data Scientist**
+- 💻 Building small projects while learning & uploading to GitHub
+- 🌱 Currently learning **DSA**, **Statistics** & **Power BI**
+- 🚀 Next goal: **Machine Learning → Deep Learning → Gen AI**
+- 💡 Motto: *Learn → Build → Upload → Repeat*
+- ⚡ Fun fact: I push code to GitHub before I fully understand it 😄
 
-    def fun_fact(self):
-        return "I push code to GitHub before I fully understand it 😄"
-
-me = DataScienceAspirant()
-```
-
+<br clear="right"/>
 ---
 
 ## 🛠️ Tech Stack & Skills
