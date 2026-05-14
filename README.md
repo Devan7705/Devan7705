@@ -28,7 +28,6 @@
 - 🌱 Currently learning **DSA**, **Statistics** & **Power BI**
 - 🚀 Next goal: **Machine Learning → Deep Learning → Gen AI**
 - 💡 Motto: *Learn → Build → Upload → Repeat*
-- ⚡ Fun fact: I push code to GitHub before I fully understand it 😄
 
 <br clear="right"/>
 ---
